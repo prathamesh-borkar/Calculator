@@ -20,3 +20,7 @@ This project performs basic arithmetic operations like **addition, subtraction, 
 
 ---
 
+Preview 
+(calculator.jpg)
+
+
