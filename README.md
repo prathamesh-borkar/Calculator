@@ -21,6 +21,8 @@ This project performs basic arithmetic operations like **addition, subtraction, 
 ---
 
 Preview 
-(https://github.com/prathameshborkar/Calculator/blob/main/calculator.jpg?raw=true)
+<img width="564" height="774" alt="calculator" src="https://github.com/user-attachments/assets/09347db2-a62b-4f01-a1c4-41e84dde99ac" />
+
+
 
 
