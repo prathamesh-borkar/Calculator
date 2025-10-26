@@ -28,7 +28,7 @@ This project performs basic arithmetic operations like **addition, subtraction, 
 
 
 ## 🛜 Live Link
-👉🏻 https://jade-druid-8f900e.netlify.app/
+👉🏻 https://javascript-calculator-pratham.netlify.app/
 
 
 
